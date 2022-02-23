@@ -1,14 +1,14 @@
 # meetup-ngc-esbuild
 
-## Angular builder is the thief who steals your time.
-> Angular is a fantastic framework, and I am a fan of it. 
-> But the development team of Angular did not care about writing a new builder; instead, they used Webpack. 
+## Angular builder is a thief who steals your time.
+> Angular is a fantastic framework but the development team did not 
+write a new builder; instead, they used Webpack. 
 > It was a time-saving decision, but Webpack is too complicated and sluggish.  
 
-__Let us develop a new builder based on Esbuild because Esbuild is 100 times faster than Webpack.__
+__Let's develop a new builder based on Esbuild because it's 100 times faster than Webpack.__
 
 ## Agenda:
-- We review the steps of creating an own Angular builder
-- I introduce my work on my new builder, 
-- You can ask questions about the Angular building process
-- You can participate in this fantastic job (if you want)
+- Review the steps of creating our own Angular builder
+- Create a test application and measure the performance
+- Q&A on the Angular building process
+- Find out how to participate in this fantastic job (if you want)
